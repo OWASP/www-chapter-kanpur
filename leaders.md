@@ -1,4 +1,4 @@
 ### Leaders
  
 * [Harshit Shukla](mailto:)
-* [Ahmed Shuja](mailto:)
+* [Ahmad Shuja](mailto:)
