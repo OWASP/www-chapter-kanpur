@@ -21,6 +21,5 @@ Working in the field of Cyber Security from 7 years . Focus areas include AppSec
 
 Favorite topic: Web Application testing - IDOR, Buisiness Logic, & XSS.
 
-* Twitter:<https://twitter.com/0xElement>
-* Site:<https://ahmadshuja.ml>
+Twitter:<https://twitter.com/0xElement>
 #### Contact ahmad.shuja@owasp.org
