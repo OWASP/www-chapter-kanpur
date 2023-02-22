@@ -1,6 +1,5 @@
 ---
-title: Example
-layout:  null
+title: Leaders
 tab: true
 order: 1
 tags: kanpur
