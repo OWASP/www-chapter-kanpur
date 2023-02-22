@@ -31,7 +31,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 Will be Updated Soon.
-<!--{% include chapter_events.html group=page.meetup-group %}-->
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
 
 Speaking at OWASP Kanpur Chapter Events
 -------------------------------------
