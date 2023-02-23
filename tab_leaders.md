@@ -9,8 +9,11 @@ tags: kanpur
 
 ### Harshit Shukla (Feb 2023 - Present)
 
+Harshit is a highly experienced cybersecurity professional with specialized expertise in application security and a strong interest in IoT security. His unwavering passion for uncovering hidden vulnerabilities has led him to discover multiple zero-day vulnerabilities in various web applications and IoT products over the years.
 
-Twitter:<https://twitter.com/An0ther_N00b>
+ LinkedIn: <https://www.linkedin.com/in/iharshitshukla/> <br>
+ Twitter: <https://twitter.com/An0ther_N00b>
+
 #### Contact harshit.shukla@owasp.org
 
 
