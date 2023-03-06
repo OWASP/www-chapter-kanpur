@@ -5,10 +5,12 @@ title: OWASP Kanpur
 tags: kanpur
 region: Asia
 currency: in
-country: India
+mmetup-group: owasp-kanpur-chapter
 
 ---
 
+
+![OWASP Kanpur Chapter](logo.png)
 
 ## OWASP Kanpur
 
