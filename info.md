@@ -1,11 +1,9 @@
-<!-- ### Kanpur Information
-* Provide Group Information -->
+< ### Kanpur Information
 
-![OWASP Kanpur Chapter](logo.png)
 # OWASP Kanpur Chapter
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-kanpur-chapter/)
 * [Twitter](#)
 * [Linkedin](#)
 * To Join the WhatsApp Group, Mail Any of the Chapter Leads
