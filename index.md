@@ -5,7 +5,7 @@ title: OWASP Kanpur
 tags: kanpur
 region: Asia
 currency: in
-mmetup-group: owasp-kanpur-chapter
+meetup-group: owasp-kanpur-chapter
 
 ---
 
