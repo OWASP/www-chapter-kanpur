@@ -5,6 +5,7 @@ title: OWASP Kanpur
 tags: kanpur
 region: Asia
 currency: in
+country: India
 meetup-group: owasp-kanpur-chapter
 
 ---
@@ -26,7 +27,7 @@ On the OWASP Kanpur Chapter page, you can find information about upcoming events
 The chapter is open to all, including developers, security professionals, students, and anyone interested in web application security. By participating in the OWASP Kanpur Chapter, you can network with other professionals in the field, learn new skills, and contribute to the improvement of web application security practices in Kanpur and beyond.
 
 ## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
