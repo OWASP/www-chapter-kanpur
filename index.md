@@ -15,7 +15,7 @@ meetup-group: owasp-kanpur-chapter
 
 ## OWASP Kanpur
 
-The OWASP Kanpur Chapter page provides information and resources related to web application security. OWASP (Open Worldwide Application Security Project) is a non-profit organization that aims to improve software security by creating resources, tools, and standards for developers, testers, and security professionals. The chapter leaders are <a href="mailto:harshit.shukla@owasp.org">Harshit Shukla</a> and <a href="mailto:ahmad.shuja@owasp.org">Ahmad Shuja</a>.
+The OWASP Kanpur Chapter page provides information and resources related to web application security. OWASP (Open Worldwide Application Security Project) is a non-profit organization that aims to improve software security by creating resources, tools, and standards for developers, testers, and security professionals. 
 <!-- TO-DO
 Follow chapter news on [Linkedin](https://www.linkedin.com/) \| [Twitter](https://twitter.com/) \| [Meetup](https://www.meetup.com/) \| [Telegram](https://t.me/joinchat/)-->
 
