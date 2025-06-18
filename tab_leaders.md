@@ -5,25 +5,22 @@ order: 1
 tags: kanpur
 ---
 
-# Current Chapter Leaders
+# Chapter Leadership – OWASP Kanpur
 
-### Harshit Shukla
+### Ashu Patel
 
-Harshit is a highly experienced cybersecurity professional with specialized expertise in application security and a strong interest in IoT security. His unwavering passion for uncovering hidden vulnerabilities has led him to discover multiple zero-day vulnerabilities in various web applications and IoT products over the years.
+Ashu is the current Chapter Leader of OWASP Kanpur. He is a dynamic community builder, engineer, and event organizer. With experience leading multiple tech user groups across India, Ashu is dedicated to spreading cybersecurity awareness and promoting open-source collaboration in the Kanpur region.
 
- LinkedIn: <https://www.linkedin.com/in/iharshitshukla/> <br>
- Twitter: <https://twitter.com/An0ther_N00b>
+- GitHub: [@ashu18683](https://github.com/ashu18683)
+- LinkedIn: [Ashu Patel](https://www.linkedin.com/in/ashu-patel-b089a8157/)
+- Email: [ashu.patel@owasp.org](mailto:ashu.patel@owasp.org)
 
-#### Contact harshit.shukla@owasp.org
+---
 
+### Ankit Aarya
 
-### Ahmad Shuja
+Ankit is a co-leader of OWASP Kanpur and a seasoned hospital management professional with 10+ years of experience. With a background in pharmacy and field operations, Ankit contributes to event logistics, outreach, and local partnerships for chapter success.
 
-A passionate cyber security enthusiast - who knows computer better than ordinary.
-Working in the field of Cyber Security from 7 years . Focus areas include AppSec and Cloud Config review. 
-
-Favorite topic: Web Application testing - IDOR, Buisiness Logic, & XSS.
-
-LinkedIn: <https://www.linkedin.com/in/shujaahmad/> <br>
-Twitter:<https://twitter.com/0xElement>
-#### Contact ahmad.shuja@owasp.org
+- GitHub: [@AnkitAryaOfficial](https://github.com/AnkitAryaOfficial)
+- LinkedIn: [Ankit Aarya](https://www.linkedin.com/in/ankit-arya-3315b62a2/)
+- Email: [ankit.aarya@owasp.org](mailto:ankit.aarya@owasp.org)
