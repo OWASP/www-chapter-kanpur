@@ -34,7 +34,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 Next Meeting/Event 
 ---------------------
 22 July 2025 At 4 PM
-
+Venue : Patiyala Grand Kanpur, U.P., India
 {% include chapter_events.html group=page.meetup-group %}
 
 
