@@ -33,7 +33,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Next Meeting/Event 
 ---------------------
-Will be Updated Soon.
+22 July 2025 At 4 PM
 
 {% include chapter_events.html group=page.meetup-group %}
 
