@@ -2,7 +2,7 @@
 title: Archive
 tab: true
 order: 1
-tags: knp
+tags: kanpur
 ---
 
 # Chapter News  
