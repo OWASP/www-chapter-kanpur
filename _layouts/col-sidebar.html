@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div id="page-container" class="sidebar-layout">
+  <div id="page-content">
+    <div class="page-content-inner">
+      {{ content }}
+    </div>
+  </div>
+
+  <div id="sidebar">
+    {% if page.sidebar %}
+      {% assign sidebar = page.sidebar %}
+      {% include sidebars/{{ sidebar }}.html %}
+    {% else %}
+      {% include_relative tab_nextmeeting.md %}
+      {% include_relative tab_archive.md %}
+    {% endif %}
+  </div>
+</div>
+
+
