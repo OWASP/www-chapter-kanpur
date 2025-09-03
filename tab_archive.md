@@ -5,7 +5,7 @@ order: 1
 tags: kanpur
 ---
 
-# Chapter News  
+# **Chapter News**  
 
 ## 22 July 2025  
 Details of the combined OWASP/null Kanpur meeting have been posted.  
