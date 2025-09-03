@@ -35,7 +35,7 @@ tags: kanpur
 <td>1</td>
 <td>22 July 2025</td>
 <td>In-Person Meet</td>
-<td>10:00 AM to 1:00 PM IST</td>
+<td>04:00 PM to 06:00 PM IST</td>
 </tr>
 
 </tbody>
