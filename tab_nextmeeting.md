@@ -3,7 +3,7 @@ title: NextMeeting
 displaytext: Next Meeting
 tab: true
 order: 1
-tags: knp
+tags: Kanpur
 ---
 
 # **Next Meeting**
