@@ -1,20 +1,19 @@
 ---
-title: NextMeeting
+title: Next Meeting
 displaytext: Next Meeting
 tab: true
 order: 1
 tags: knp
 ---
 
-# **Next Meeting**
+# Next Meeting  
 
-To be shared
+Details of the upcoming meeting will be shared soon.  
 
-### **Sessions**
+## Sessions  
+- To Be Shared  
 
-* To Be Shared
+## Venue  
+To Be Shared  
 
-### **Venue:**
-To Be Shared
-
-### RSVP: https://www.meetup.com/meetup-group-dpegpwys/
+**RSVP:** [Join via Meetup](https://www.meetup.com/meetup-group-dpegjpwys/)  
