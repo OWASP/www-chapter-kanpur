@@ -1,9 +1,8 @@
 ---
 title: Archive
-displaytext: Archive
 tab: true
-order: 2
-tags: knp
+order: 1
+tags: blr
 ---
 
 # Chapter News  
