@@ -35,7 +35,7 @@ tags: kanpur
 <td>3</td>
 <td>30 September 2025</td>
 <td>In-Person Meet</td>
-<td>06:00 AM to 08:00 PM IST</td>
+<td>06:00 PM to 08:00 PM IST</td>
 </tr>
 
 <tr>
