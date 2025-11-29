@@ -26,6 +26,13 @@ tags: kanpur
 
 <tr>
 <td>3</td>
+<td>23 November 2025</td>
+<td>In-Person Meet</td>
+<td>10:00 AM to 11:30 AM IST</td>
+</tr>
+
+<tr>
+<td>3</td>
 <td>30 September 2025</td>
 <td>In-Person Meet</td>
 <td>06:00 AM to 08:00 PM IST</td>
