@@ -23,12 +23,21 @@ tags: kanpur
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td>6</td>
+<td>18 January 2026</td>
+<td>In-Person Meet</td>
+<td>11:00 AM to 01:30 PM IST</td>
+</tr>
+
 <tr>
 <td>5</td>
 <td>30 December 2025</td>
 <td>In-Person Meet</td>
 <td>10:00 AM to 12:30 PM IST</td>
 </tr>
+  
 <tr>
 <td>4</td>
 <td>23 November 2025</td>
