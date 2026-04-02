@@ -25,6 +25,13 @@ tags: kanpur
 <tbody>
 
 <tr>
+<td>7</td>
+<td>22 March 2026</td>
+<td>In-Person Meet</td>
+<td>12:00 PM to 2:30 PM IST</td>
+</tr>
+
+<tr>
 <td>6</td>
 <td>18 January 2026</td>
 <td>In-Person Meet</td>
