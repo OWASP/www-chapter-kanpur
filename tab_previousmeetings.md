@@ -23,6 +23,13 @@ tags: kanpur
 </tr>
 </thead>
 <tbody>
+  
+<tr>
+<td>7</td>
+<td>20 April 2026</td>
+<td>In-Person Meet</td>
+<td>11:00 AM to 1:30 PM IST</td>
+</tr>
 
 <tr>
 <td>7</td>
